@@ -4,7 +4,7 @@ import logo from "./logo.svg";
 import { bindActionCreators } from "redux";
 import { addToDoList } from "./actions/toDoList";
 import "./App.css";
-
+import ToDoList from "./containers/ToDoList";
 class App extends Component {
   state = {
     toDo: ""
@@ -34,6 +34,7 @@ class App extends Component {
             />
             <button type="submit">Submit</button>
           </form>
+          <ToDoList />
         </header>
       </div>
     );
