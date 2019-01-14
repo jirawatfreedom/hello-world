@@ -16,7 +16,7 @@ class ToDo extends React.Component {
 
   handleDone = id => {
     console.log(id);
-    this.props.updateToDoType(id, "DONE")    
+    this.props.updateToDoType(id, "DONE");
   };
 
   render() {
@@ -27,7 +27,7 @@ class ToDo extends React.Component {
           {this.props.toDo.name}
         </ToDoStyle>
         {this.props.toDo.type === "DOING" && (
-         <button onClick={() => this.handleDone(id)}>Mark As Done</button>
+          <button onClick={() => this.handleDone(id)}>Mark As Done</button>
         )}
         <button onClick={() => this.handleDelete(id)}>Delete</button>
       </li>
