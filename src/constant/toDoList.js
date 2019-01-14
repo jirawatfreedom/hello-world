@@ -1,2 +1,3 @@
 export const ADD_TODO_LIST = "ADD_TODO_LIST";
 export const DELETE_TODO_LIST = "DELETE_TODO_LIST";
+export const UPDATE_TODO_TYPE = "UPDATE_TODO_TYPE";
