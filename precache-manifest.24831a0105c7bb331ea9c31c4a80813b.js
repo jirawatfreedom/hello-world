@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "01f3c2177032f478fcfc",
+    "revision": "db70fa13a6b6c6e780e7",
     "url": "/hello-world/static/css/main.3fb19d90.chunk.css"
   },
   {
-    "revision": "01f3c2177032f478fcfc",
-    "url": "/hello-world/static/js/main.01f3c217.chunk.js"
+    "revision": "db70fa13a6b6c6e780e7",
+    "url": "/hello-world/static/js/main.db70fa13.chunk.js"
   },
   {
-    "revision": "b888bf97a1e3dc93c081",
-    "url": "/hello-world/static/js/1.b888bf97.chunk.js"
+    "revision": "e1400f4d44c89ba7810a",
+    "url": "/hello-world/static/js/1.e1400f4d.chunk.js"
   },
   {
     "revision": "ec2a5d419092358b57e1",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/hello-world/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "379512a7ff94ac03a966b9518118086d",
+    "revision": "e1fdee3e4ce8a16176fb841173536dd5",
     "url": "/hello-world/index.html"
   }
 ];
